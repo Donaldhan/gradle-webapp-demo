@@ -180,3 +180,11 @@ Total time: 3.031 secs
 
 donald@donaldHP MINGW64 /f/github/gradle-webapp-demo (master)
 ```
+
+project facets:
+
+![project facets](./image/project-facets.png)
+
+deployment assembly:
+
+![deployment assembly](./image/deployment-assembly.png)
