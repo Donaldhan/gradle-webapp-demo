@@ -10,7 +10,11 @@
 
 <jsp:useBean id="dbInfo" class="cn.home.modules.beans.entity.DbInfo"/>
 
-<h3>${dbInfo.env}</h3>
-	${dbInfo.userName},${dbInfo.password},${dbInfo.driverClassName},${dbInfo.url}
+<h3>数据库配置</h3>
+	环境：${dbInfo.env},
+	用户名：${dbInfo.username},
+	密码：${dbInfo.password},
+	驱动名：${dbInfo.driverClassName},
+	URL：${dbInfo.url}
 </body>
 </html>
