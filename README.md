@@ -7,6 +7,7 @@
 # 引言
 * [定义全局变量](#定义全局变量)
 * [运行web项目](#运行web项目)   
+* [附](#附)   
 此项目用于测试gradle管理web项目。在创建gradle项目后，在 *src/main* 文件夹中，需要创建2个子文件夹，分别为 *resources* 和 *webapp*。
     * src/main/java: 此文件夹中存放 java 源文件代码。
     * src/main/resources: 此文件夹中可以存放属性文件和其他资源。
