@@ -11,6 +11,7 @@
     * src/main/java: 此文件夹中存放 java 源文件代码。
     * src/main/resources: 此文件夹中可以存放属性文件和其他资源。
     * src/main/webapp: 此文件夹包含jsp和其他Web应用程序内容。
+另外需要注意的一点是，此项目依赖于[gradle-demo](https://github.com/Donaldhan/gradle-demo)  项目，*gradle-demo* 可以看成公共基础包。
 
 ## 定义全局变量
 在使用gradle管理项目的时候，我们有时候需要对jar的版本进行统一的管理，这是我们可以定义全局变量，形式如下：  
